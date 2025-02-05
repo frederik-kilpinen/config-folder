@@ -1,0 +1,7 @@
+packages:
+brew install 
+	git \
+	bitwarden \
+
+
+  
